@@ -1,0 +1,70 @@
+{
+    "regions": [
+        {
+            "id": 1,
+            "name": "Kyzylorda region"
+        },
+        {
+            "id": 2,
+            "name": "Almaty region"
+        },
+        {
+            "id": 3,
+            "name": "Aktau region"
+        }
+    ],
+    "cities": [
+        {
+            "id": 1,
+            "name": "Almaty",
+            "region_id": 2
+        },
+        {
+            "id": 2,
+            "name": "Taldykorgan",
+            "region_id": 2
+        },
+        {
+            "id": 3,
+            "name": "Aktau",
+            "region_id": 3
+        },
+        {
+            "id": 4,
+            "name": "Aral",
+            "region_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Kyzylorda",
+            "region_id": 1
+        }
+    ],
+    "villages": [
+        {
+            "id": 1,
+            "name": "Nauryz village",
+            "city_id": 5
+        },
+        {
+            "id": 2,
+            "name": "Karauil village",
+            "city_id": 5
+        },
+        {
+            "id": 3,
+            "name": "Aralkum village",
+            "city_id": 4
+        },
+        {
+            "id": 4,
+            "name": "Soltrest village",
+            "city_id": 4
+        },
+        {
+            "id": 5,
+            "name": "Shizhaga village",
+            "city_id": 4
+        }
+    ]
+}
